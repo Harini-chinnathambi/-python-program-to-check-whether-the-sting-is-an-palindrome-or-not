@@ -1,0 +1,1 @@
+# -python-program-to-check-whether-the-sting-is-an-palindrome-or-not
